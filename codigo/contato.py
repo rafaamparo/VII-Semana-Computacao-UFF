@@ -3,5 +3,6 @@ class Contato:
         self.nome = nome
         self.numero = numero
 
-    
+# Teste Merge
+
         
