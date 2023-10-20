@@ -30,3 +30,4 @@ def main():
             print("Opção inválida!")
 
         opcao = int(input("Digite a opção desejada: "))
+    main()
